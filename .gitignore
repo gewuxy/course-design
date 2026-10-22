@@ -7,3 +7,7 @@ __pycache__/
 data
 workspace
 input
+.DS_Store
+
+# 私有文档，不入仓库
+需求池.md
